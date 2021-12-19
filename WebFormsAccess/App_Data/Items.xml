@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Items>
+  <Item Id ="1" Name="Item 1">
+    <Price>100</Price>
+    <Category>Category 1</Category>
+  </Item> 
+  <Item Id ="2" Name="Item 2">
+    <Price>120</Price>
+    <Category>Category 1</Category>
+  </Item> 
+<Item Id ="3" Name="Item 3">
+    <Price>200</Price>
+    <Category>Category 2</Category>
+  </Item> 
+  <Item Id ="4" Name="Item 4">
+    <Price>320</Price>
+    <Category>Category 2</Category>
+  </Item> 
+<Item Id ="5" Name="Item 5">
+    <Price>300</Price>
+    <Category>Category 3</Category>
+  </Item> 
+  <Item Id ="6" Name="Item 6">
+    <Price>320</Price>
+    <Category>Category 3</Category>
+  </Item> 
+</Items>
